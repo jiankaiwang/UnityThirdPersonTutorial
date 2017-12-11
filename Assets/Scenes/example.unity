@@ -461,6 +461,7 @@ MonoBehaviour:
   distanceUp: 10
   smooth: 5
   follow: {fileID: 0}
+  followXform: {fileID: 0}
 --- !u!1 &549199632
 GameObject:
   m_ObjectHideFlags: 0
